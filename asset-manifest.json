@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.adce5a89.chunk.css",
-    "main.js": "./static/js/main.8fb0f409.chunk.js",
-    "main.js.map": "./static/js/main.8fb0f409.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.24d37c0a.js",
-    "runtime-main.js.map": "./static/js/runtime-main.24d37c0a.js.map",
-    "static/css/2.69121389.chunk.css": "./static/css/2.69121389.chunk.css",
-    "static/js/2.5f58b27d.chunk.js": "./static/js/2.5f58b27d.chunk.js",
-    "static/js/2.5f58b27d.chunk.js.map": "./static/js/2.5f58b27d.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.b4326a8ad96040bd4c5619e60e176a49.js": "./precache-manifest.b4326a8ad96040bd4c5619e60e176a49.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "./static/css/2.69121389.chunk.css.map",
-    "static/css/main.adce5a89.chunk.css.map": "./static/css/main.adce5a89.chunk.css.map",
-    "static/js/2.5f58b27d.chunk.js.LICENSE.txt": "./static/js/2.5f58b27d.chunk.js.LICENSE.txt"
+    "main.css": "/lenzdrift/static/css/main.adce5a89.chunk.css",
+    "main.js": "/lenzdrift/static/js/main.c6834f8c.chunk.js",
+    "main.js.map": "/lenzdrift/static/js/main.c6834f8c.chunk.js.map",
+    "runtime-main.js": "/lenzdrift/static/js/runtime-main.d78d0869.js",
+    "runtime-main.js.map": "/lenzdrift/static/js/runtime-main.d78d0869.js.map",
+    "static/css/2.69121389.chunk.css": "/lenzdrift/static/css/2.69121389.chunk.css",
+    "static/js/2.5f58b27d.chunk.js": "/lenzdrift/static/js/2.5f58b27d.chunk.js",
+    "static/js/2.5f58b27d.chunk.js.map": "/lenzdrift/static/js/2.5f58b27d.chunk.js.map",
+    "index.html": "/lenzdrift/index.html",
+    "precache-manifest.109fe1ccb2059bcbfbbd49c97f18edc8.js": "/lenzdrift/precache-manifest.109fe1ccb2059bcbfbbd49c97f18edc8.js",
+    "service-worker.js": "/lenzdrift/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/lenzdrift/static/css/2.69121389.chunk.css.map",
+    "static/css/main.adce5a89.chunk.css.map": "/lenzdrift/static/css/main.adce5a89.chunk.css.map",
+    "static/js/2.5f58b27d.chunk.js.LICENSE.txt": "/lenzdrift/static/js/2.5f58b27d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.24d37c0a.js",
+    "static/js/runtime-main.d78d0869.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.5f58b27d.chunk.js",
     "static/css/main.adce5a89.chunk.css",
-    "static/js/main.8fb0f409.chunk.js"
+    "static/js/main.c6834f8c.chunk.js"
   ]
 }
