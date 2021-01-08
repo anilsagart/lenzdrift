@@ -1,4 +1,4 @@
-export const icons = {
+export const icon = {
     logo_1:"/icons/logo_1.png",
     logo_2:"/icons/logo_2.png",
     logo_3:"/icons/logo_3.png",
