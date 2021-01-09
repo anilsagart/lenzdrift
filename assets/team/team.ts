@@ -37,7 +37,7 @@ export const team = [
         location: "bangalore",
         description: "Software engineer by profession",
         position: "right",
-        name: "Sourabh S Murthy"
+        name: "Sourabh Murthy"
     },
 ]
 
