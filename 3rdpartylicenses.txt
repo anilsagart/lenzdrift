@@ -206,6 +206,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ngx-device-detector
 
+ngx-spinner
+MIT
+
 regenerator-runtime
 MIT
 MIT License
