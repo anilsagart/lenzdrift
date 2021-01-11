@@ -67,7 +67,7 @@ export const images = {
         "Kids": [
             {
                 title: "dhanvi",
-                cover: "mobile/portfolio/2.jpeg",
+                cover: "mobile/portfolio/2.jpg",
                 location: "bangalore",
                 images: ["mobile/kids/2.jpeg"],
                 stars:[1,1,1],
@@ -78,7 +78,7 @@ export const images = {
         "Candid Wedding": [
             {
                 title: "dhanvi",
-                cover: "mobile/portfolio/2.jpeg",
+                cover: "mobile/portfolio/2.jpg",
                 location: "bangalore",
                 images: [
                     "mobile/birthday/1.jpeg", "mobile/birthday/2.jpeg"
@@ -91,7 +91,7 @@ export const images = {
         "Engagement": [
             {
                 title: "dhanvi",
-                cover: "mobile/portfolio/2.jpeg",
+                cover: "mobile/portfolio/2.jpg",
                 location: "bangalore",
                 images: ["mobile/engagement/1.jpeg"],
                 stars:[1,1,1],
@@ -103,7 +103,7 @@ export const images = {
         "House Warming": [
             {
                 title: "dhanvi",
-                cover: "mobile/portfolio/2.jpeg",
+                cover: "mobile/portfolio/2.jpg",
                 location: "bangalore",
                 images: [
                     "mobile/birthday/1.jpeg", "mobile/birthday/2.jpeg"
@@ -117,7 +117,7 @@ export const images = {
         "MakeUp Shoot": [
             {
                 title: "dhanvi",
-                cover: "mobile/portfolio/2.jpeg",
+                cover: "mobile/portfolio/2.jpg",
                 location: "bangalore",
                 images: [
                     "mobile/birthday/1.jpeg", "mobile/birthday/2.jpeg"
@@ -130,7 +130,7 @@ export const images = {
         "Maternity": [
             {
                 title: "dhanvi",
-                cover: "mobile/portfolio/2.jpeg",
+                cover: "mobile/portfolio/2.jpg",
                 location: "bangalore",
                 images: ["mobile/maternity/1.jpeg"],
                 stars:[1,1,1],
@@ -142,7 +142,7 @@ export const images = {
         "Pre Wedding": [
             {
                 title: "dhanvi",
-                cover: "mobile/portfolio/1.jpeg",
+                cover: "mobile/portfolio/2.jpg",
                 location: "bangalore",
                 images: ["mobile/pre-wedding/1.jpeg"],
                 stars:[1,1,1],

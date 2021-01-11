@@ -1,43 +1,43 @@
 export const team = [
     {
         cover: "team/2.jpg",
-        instagram: "aniltsagar",
+        instagram: "https://www.instagram.com/aniltsagar/",
         username: "aniltsagar",
         facebook: "bangalore",
         location: "bangalore",
-        description: "Software engineer by profession, Software engineer by profession, Software engineer by profession",
+        description: "founder, cinematographer",
         position: "left",
         name: "Anil T Sagar"
     },
     {
         cover: "team/2.jpg",
-        instagram: "dhanvi",
-        username: "@aniltsagar",
+        instagram: "https://www.instagram.com/chetanngowda/",
+        username: "chetanngowda",
         facebook: "bangalore",
         location: "bangalore",
-        description: "Software engineer by profession",
+        description: "photographer, videographer",
         position: "right",
         name: "Chetan N Gowda"
     },
     {
         cover: "team/2.jpg",
-        instagram: "dhanvi",
-        username: "@aniltsagar",
+        instagram: "https://www.instagram.com/manojkullegowda/",
+        username: "manojkullegowda",
         facebook: "bangalore",
         location: "bangalore",
-        description: "Software engineer by profession",
+        description: "manager, photographer",
         position: "left",
         name: "Manoj K Gowda"
     },
     {
         cover: "team/2.jpg",
-        instagram: "dhanvi",
-        username: "aniltsagar",
+        instagram: "https://www.instagram.com/iam._.sourabh/",
+        username: "iam._.sourabh",
         facebook: "bangalore",
         location: "bangalore",
-        description: "Software engineer by profession",
+        description: "editor, photographer",
         position: "right",
-        name: "Sourabh Murthy"
+        name: "Sourabh S"
     },
 ]
 
