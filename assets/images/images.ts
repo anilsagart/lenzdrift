@@ -393,7 +393,9 @@ export const images = {
         // ],
 
     },
-    albumSlider:[],
+    albumSlider:[
+        "images/albumslider/1.jpg", "images/albumslider/2.jpg",
+    ],
     homepageSlider:[],
 
 }
