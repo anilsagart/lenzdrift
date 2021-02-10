@@ -1,138 +1,124 @@
 export const services = {
     "birthday": {
         photo: [{
-            name: "photo - package 1",
+            name: "classic",
             details: [
-                "photoshoot of the complete birthday event",
-                "Delivers all raw softcopies of pictures",
-                "Best copies edited"
+                "Softcopies of entire shoot",
+                "Curated collection of photographs"
             ],
             selected: false
         },
         {
-            name: "photo - package 2",
+            name: "vibrant",
             details: [
-                "photoshoot of the complete birthday event",
-                "Delivers all raw softcopies of pictures",
-                "Best copies edited",
-                "20 high quality sheets Album"
+                "Softcopies of entire shoot",
+                "Curated collection of photographs",
+                "1 Album with 20 high quality sheets"
             ],
             selected: false
         }
     ],
         video: [{
-            name: "video - package 1",
+            name: "candid video",
             details: [
-                "3 - 5 min candid video of the complete event",
+                "3 to 5 mins of custom-made candid video",
             ],
             selected: false
         }],
     },
     "pre/post wedding": {
         photo: [{
-            name: "photo - package 1",
+            name: "classic",
             details: [
-                "in bangalore locations",
-                "3 outfit shoot",
-                "Delivers all raw softcopies with 30+ edited pictures",
-                "~1 min invitation Whats App video"
+                "3 different costumes for a themed pre-wedding shoot",
+                "Any location within Bengaluru city limits",
+                "Softcopies of entire shoot",
+                "30+ Curated collection of photographs", "Digital invite in video format not exceeding a minute"
             ],
             selected: false
         },
         {
-            name: "photo - package 2",
+            name: "vibrant",
             details: [
-                "outside bangalore locations",
-                "4 outfit shoot",
-                "Delivers all raw softcopies with 40+ edited pictures",
-                "~1 min invitation Whats App video"
+                "4 different costumes for a themed pre-wedding shoot", "Any location outside Bengaluru", "Soft copies of entire shoot", "40+ Curated collection of photographs", "Digital invite in video format not exceeding a minute"
             ],
             selected: false
         }
     ],
         video: [{
-            name: "video - package 1",
+            name: "candid video",
             details: [
-                "3 - 5 min candid video for 1 songs/track",
+               "3-5 mins of themed cinematic shoot for 1 song",
             ],
             selected: false
         }],
     },
     "engagement": {
         photo: [{
-            name: "photo - package 1",
+            name: "classic",
             details: [
-                "photoshoot of the complete event",
-                "Delivers all raw softcopies of pictures",
-                "Best copies edited"
+                "Softcopies of entire shoot",
+                "Curated collection of photographs"
             ],
             selected: false
         },
         {
-            name: "photo - package 2",
+            name: "vibrant",
             details: [
-                "photoshoot of the complete event",
-                "Delivers all raw softcopies of pictures",
-                "Best copies edited",
-                "20 high quality sheets Album"
+                "Softcopies of entire shoot",
+                "Curated collection of photographs",
+                "1 Album with 20 high quality sheets"
             ],
             selected: false
         }
     ],
         video: [{
-            name: "video - package 1",
+            name: "candid video",
             details: [
-                "3 - 5 min candid video of the complete event",
+                "3 to 5 mins of custom-made candid video",
             ],
             selected: false
         }],
     },
     "seemantha": {
         photo: [{
-            name: "photo - package 1",
+            name: "classic",
             details: [
-                "photoshoot of the complete event",
-                "Delivers all raw softcopies of pictures",
-                "Best copies edited"
+                "Softcopies of entire shoot",
+                "Curated collection of photographs"
             ],
             selected: false
         },
         {
-            name: "photo - package 2",
+            name: "vibrant",
             details: [
-                "photoshoot of the complete event",
-                "Delivers all raw softcopies of pictures",
-                "Best copies edited",
-                "20 high quality sheets Album"
+                "Softcopies of entire shoot",
+                "Curated collection of photographs",
+                "1 Album with 20 high quality sheets"
             ],
             selected: false
         }
     ],
         video: [{
-            name: "video - package 1",
+            name: "candid video",
             details: [
-                "3 - 5 min candid video of the complete event",
+                "3 to 5 mins of custom-made candid video",
             ],
             selected: false
         }],
     },
     "portfolio": {
         photo: [{
-            name: "photo - package 1",
+            name: "classic",
             details: [
-                "2 outfit shoot",
-                "Delivers all raw softcopies with 18+ pictures",
+               "2 different costumes shoot", "8 Curated collection of each costume style", "Best Softcopies of entire shoot"
             ],
             selected: false
         },
         {
-            name: "photo - package 2",
+            name: "vibrant",
             details: [
-                "2 outfit shoot",
-                "Delivers all raw softcopies with 18+ pictures",
-                "Make up",
-                "Selective Outfits",
-                "Jewelries"
+               "3 different costumes shoot", "20 Curated collection of each costume style", "Best Softcopies of entire shoot", "Makeup and hairstyle service"
             ],
             selected: false
         }
@@ -140,10 +126,9 @@ export const services = {
     },
     "kids": {
         photo: [{
-            name: "photo - package 1",
+            name: "classic",
             details: [
-                "3 outfit shoot",
-                "Delivers all raw softcopies with 30+ pictures",
+                "3 different costumes shoot", "30+ best Softcopies of entire shoot"
             ],
             selected: false
         },
@@ -151,19 +136,21 @@ export const services = {
     },
     "babies": {
         photo: [{
-            name: "photo - package 1",
+            name: "classic",
             details: [
-                "3 outfit shoot",
-                "Delivers all raw softcopies with 30+ pictures",
+                "3 different costumes shoot", 
+                "30+ best Softcopies of entire shoot"
+                
             ],
             selected: false
         },
         {
-            name: "photo - package 2",
+            name: "vibrant",
             details: [
-                "3 outfit shoot",
-                "with properties",
-                "Delivers all raw softcopies with 30+ pictures",
+                "3 different costumes shoot",
+ "30+ best Softcopies of entire shoot",
+ "Theme based props",
+ "2 curated photographs"
             ],
             selected: false
         }

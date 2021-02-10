@@ -5,7 +5,7 @@ export const team = [
         username: "aniltsagar",
         facebook: "bangalore",
         location: "bangalore",
-        description: "founder, cinematographer",
+        description: "• director ",
         position: "left",
         name: "Anil T Sagar"
     },
@@ -15,9 +15,29 @@ export const team = [
         username: "chetanngowda",
         facebook: "bangalore",
         location: "bangalore",
-        description: "photographer, videographer",
+        description: "• lead ",
         position: "right",
         name: "Chetan N Gowda"
+    },
+    {
+        cover: "team/2.jpg",
+        instagram: "https://www.instagram.com/acharthanu/",
+        username: "acharthanu",
+        facebook: "bangalore",
+        location: "bangalore",
+        description: "• co-lead ",
+        position: "left",
+        name: "Thanu Achar"
+    },
+    {
+        cover: "team/2.jpg",
+        instagram: "https://www.instagram.com/_mr.sourabh/",
+        username: "_mr.sourabh",
+        facebook: "bangalore",
+        location: "bangalore",
+        description: "• editor ",
+        position: "right",
+        name: "Sourabh S"
     },
     {
         cover: "team/2.jpg",
@@ -25,19 +45,10 @@ export const team = [
         username: "manojkullegowda",
         facebook: "bangalore",
         location: "bangalore",
-        description: "manager, photographer",
+        description: "• manager ",
         position: "left",
         name: "Manoj K Gowda"
     },
-    {
-        cover: "team/2.jpg",
-        instagram: "https://www.instagram.com/iam._.sourabh/",
-        username: "iam._.sourabh",
-        facebook: "bangalore",
-        location: "bangalore",
-        description: "editor, photographer",
-        position: "right",
-        name: "Sourabh S"
-    },
+    
 ]
 
